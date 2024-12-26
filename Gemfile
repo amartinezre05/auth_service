@@ -41,5 +41,5 @@ group :development, :test do
 end
 
 gem 'bcrypt', '~> 3.1.7' # Para el hashing de contraseñas
-gem 'jwt', '~> 2.2'      # Para manejo de JWT
+gem 'jwt', '~> 2.10'     # Para manejo de JWT
 gem 'pg', '>= 0.18', '< 2.0'
